@@ -11,7 +11,7 @@ Package moeda and package cor is used to:
 	
 	- cor
 		
-		__init__.py
+		- __init__.py
 	
 	- moeda:
 		
