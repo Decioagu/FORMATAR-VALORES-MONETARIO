@@ -8,14 +8,12 @@ ___
 
 Description. 
 
-Package moeda and package cor is used to:
+Package cor and package moeda is used to:
 	
-	- cor
-		
+	- cor:
 		- __init__.py
 	
 	- moeda:
-		
 		- formata_moeda.py
 
 ## Installation
