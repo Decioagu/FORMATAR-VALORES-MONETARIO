@@ -1,5 +1,5 @@
 import cor  # pacote para personalizar cores do texto
-from moeda.formata_moeda import titulo, teste_float, resposta  # pacote para tratamento de valores numérico
+from moeda.formatar_moeda import titulo, teste_float, resposta  # pacote para tratamento de valores numérico
 
 titulo('Entrada de dados monetários'.upper())  # formata texto
 

@@ -22,7 +22,7 @@ pip install moeda
 ```python
 
 import cor
-from moeda.formata_moeda import titulo, teste_float, resposta
+from moeda.formatar_moeda import titulo, teste_float, resposta
 ```
 
 ## Author
@@ -30,3 +30,4 @@ Décio Santana de Aguiar
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
