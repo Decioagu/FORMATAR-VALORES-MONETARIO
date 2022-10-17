@@ -1,4 +1,9 @@
-# moeda, cor
+# Criação de pacote em Python
+
+O objetivo deste projeto foi criar uma aplicação em Python utilizando pacotes para disponibilizar no repositório Pypi. Os pacotes criado consiste em personalizar as cores do texto no terminal e transformar valores numérico em anotação monetária. Ex:. "101" em "R$101,00".
+
+***
+## moeda, cor
 
 Description. 
 Package moeda and package cor is used to:
