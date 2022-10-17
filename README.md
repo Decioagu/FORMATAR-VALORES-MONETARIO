@@ -42,7 +42,3 @@ Décio Santana de Aguiar
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-<<<<<<< HEAD
-
-=======
->>>>>>> a877d4d90c78dc3bcc12c2d5e84d42819c9164d1
