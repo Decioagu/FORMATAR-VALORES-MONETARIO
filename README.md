@@ -1,6 +1,9 @@
 # Criação de pacote em Python
 
-O objetivo deste projeto foi criar uma aplicação em Python utilizando pacotes para disponibilizar no repositório Pypi. Os pacotes criados consistem em personalizar as cores do texto no terminal e transformar valores numérico em anotação monetária. Ex:. **_101_** em **_R$101,00_**.
+O objetivo deste projeto foi criar uma aplicação em Python utilizando pacotes para disponibilizar no repositório Pypi. 
+Os pacotes são:
+cor: personalizar as cores do texto no terminal ao imprimir o resultado;
+moeda: transformar valores numérico em anotação monetária. Ex:. **_101_** em **_R$101,00_**.
 ___
 Bootcamp Database Experience - **_Digital Innovation One_**
 ___
@@ -8,14 +11,12 @@ ___
 
 Description. 
 
-Package moeda and package cor is used to:
+Package cor and package moeda is used to:
 	
-	- cor
-		
+	- cor:
 		- __init__.py
 	
 	- moeda:
-		
 		- formata_moeda.py
 
 ## Installation
