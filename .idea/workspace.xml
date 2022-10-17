@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="829e975a-9258-43b0-8ee3-291a226ae333" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/FORMATAR-VALORES-MONETARIO.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cor/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moeda/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/moeda/formatar_moeda.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/valor.py" beforeDir="false" afterPath="$PROJECT_DIR$/valor.py" afterDir="false" />
-    </list>
+    <list default="true" id="829e975a-9258-43b0-8ee3-291a226ae333" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
