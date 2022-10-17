@@ -36,8 +36,8 @@ pip install moeda
 
 ```python
 
-import cor
-from moeda.formatar_moeda import titulo, teste_float, resposta
+from package_name import cor
+from package_name.moeda.formatar_moeda import titulo, teste_float, resposta
 ```
 
 ## Author
