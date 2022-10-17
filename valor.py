@@ -1,5 +1,5 @@
-import cor  # pacote para personalizar cores do texto
-from moeda.formatar_moeda import titulo, teste_float, resposta  # pacote para tratamento de valores numérico
+from package_name import cor  # pacote para personalizar cores do texto
+from package_name.moeda.formatar_moeda import titulo, teste_float, resposta  # pacote para tratamento de valores numérico
 
 titulo('Entrada de dados monetários'.upper())  # formata texto
 
@@ -9,19 +9,3 @@ valor = teste_float(valor)
 print()
 resposta(valor)
 print(f'{cor.azul_claro}Décio Santana deAguiar{cor.limpar}')
-
-'''
-valor(
-    name="moeda",
-    version="0.0.1",
-    author="Decio Santana de Aguiar",
-    author_email="decioagu@gmail.com",
-    description="Analisa valores numéricos e retorna em formato monetário",
-    long_description=page_description,
-    long_description_content_type="text/markdown",
-    url="https://github.com/Decioagu/FORMATAR-VALORES-MONETARIO",
-    packages=find_packages(),
-    install_requires=requirements,
-    python_requires='>=3.8',
-)
-'''

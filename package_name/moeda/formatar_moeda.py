@@ -1,4 +1,4 @@
-import cor  # pacote para personalizar cores do texto
+from package_name import cor  # pacote para personalizar cores do texto
 
 def titulo(txt):
     """
