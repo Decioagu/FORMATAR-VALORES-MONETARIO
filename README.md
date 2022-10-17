@@ -8,9 +8,13 @@ O objetivo deste projeto foi criar uma aplicação em Python utilizando pacotes 
 Description. 
 
 Package moeda and package cor is used to:
+	
 	- cor
+		
 		__init__.py
+	
 	- moeda:
+		
 		- formata_moeda.py
 
 ## Installation
