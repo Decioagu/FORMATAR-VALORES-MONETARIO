@@ -2,7 +2,9 @@
 
 O objetivo deste projeto foi criar uma aplicação em Python utilizando pacotes para disponibilizar no repositório Pypi. 
 Os pacotes são:
+
 cor: personalizar as cores do texto no terminal ao imprimir o resultado;
+
 moeda: transformar valores numérico em anotação monetária. Ex:. **_101_** em **_R$101,00_**.
 ___
 Bootcamp Database Experience - **_Digital Innovation One_**
